@@ -15,3 +15,5 @@ cypress-tutorial/).
     * Este número será utilizado para seleccionar la fila ganadora, el cual contendrá el nombre del usuario ganador.
     * El usuario ganador debe seguir la cuenta de Angular Chile en Twitter.
     * El usuario ganador debe haber dado me gusta al tweet.
+    * Los miembros del core team de Angular Chile están excluídos de este concurso.
+    * Se asume el valor de $19,99 USD del curso. En caso de que la promoción expire antes del 25 de Diciembre del 2019 se esperará a una nueva fecha donde se encuentre al mismo valor para poder realizar la entrega.
