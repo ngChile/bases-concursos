@@ -6,6 +6,7 @@
 * **Regalo**: Cypress - Modern Automation Testing from Scratch (https://www.udemy.com/course/
 cypress-tutorial/).
 * **Fecha Sorteo**: Miércoles 25 de Diciembre del 2019.
+* **Ganador del concurso**: [@ghrockretroby](https://twitter.com/ghrockretroby)
 * **Bases**:
     * Pueden participar todas las personas que posean una cuenta Twitter.
     * Pueden participar personas de todas las nacionalidades :earth_americas:
